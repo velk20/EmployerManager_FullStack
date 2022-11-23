@@ -1,0 +1,23 @@
+[
+  {
+    "email":"angel@maldenov.vcom",
+    "imageUrl":"https://bootdey.com/img/Content/avatar/avatar7.png",
+    "jobTitle":"Java Developer",
+    "name": "Angel Mladenov",
+    "phone": "1234567897"
+  },
+  {
+    "email":"atanaska@maldenova.vcom",
+    "imageUrl":"https://bootdey.com/img/Content/avatar.avatar1.png",
+    "jobTitle":"Junior C# Developer",
+    "name": "Atanaska Mladenova",
+    "phone": "4567812658"
+  },
+  {
+    "email":"venko@ivanov.vcom",
+    "imageUrl":"https://bootdey.com/img/Content/avatar.avatar2.png",
+    "jobTitle":"Junior JavaScript Developer",
+    "name": "Venko Ivanov",
+    "phone": "4512478565"
+  }
+]
